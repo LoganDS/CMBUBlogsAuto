@@ -1,0 +1,96 @@
+CMBU Blog Note (pg 30-20)
+	- https://blogs.vmware.com/management/cloud-management-platform/page/30 
+	https://blogs.vmware.com/management/2018/08/introducing-cloud-automation.html
+	https://blogs.vmware.com/management/2018/09/cas-assembly-technical-overview.html
+	https://blogs.vmware.com/management/2018/11/customizing-cloud-assembly-deployments-with-cloud-init.html
+	https://blogs.vmware.com/management/2018/11/abx-serverless-extensibility-of-cloud-assembly-services.html
+	https://blogs.vmware.com/management/2018/11/remote-access-in-cloud-assembly.html
+	https://blogs.vmware.com/management/2018/11/vro-development-with-typescript.html
+	https://blogs.vmware.com/management/2018/12/developing-vrealize-content-vscode.html
+	https://blogs.vmware.com/management/2018/12/webinar-automate-with-vmware-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/01/announcing-general-availability-of-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/01/the-business-case-for-saas-based-multi-cloud-automation-and-management.html
+	https://blogs.vmware.com/management/2019/01/windows-cloud-init-solution.html
+	https://blogs.vmware.com/management/2019/01/cloud-automation-services-to-dispatch-or-not-to-dispatch.html
+	https://blogs.vmware.com/management/2019/01/gitlab-integration-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/02/extracting-data-from-vrealize-operations-with-the-rest-apis.html
+	https://blogs.vmware.com/management/2019/02/building-a-cas-ready-ubuntu-template-for-vsphere.html
+	https://blogs.vmware.com/management/2019/02/blueprinting-expressions-in-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/02/getting-started-with-vmware-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/03/build-a-cloud-automation-service-ready-centos-template.html
+	https://blogs.vmware.com/management/2019/03/google-cloud-plug-in-for-vmware-vrealize-automation.html
+	https://blogs.vmware.com/management/2019/04/trigger-pipelines-from-docker-registry-updates-in-vmware-code-stream.html
+	https://blogs.vmware.com/management/2019/04/generating-a-csp-api-token-cas.html
+	https://blogs.vmware.com/management/2019/04/vmware-cloud-on-aws-with-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/04/extending-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/04/cloud-assembly-meets-google-cloud-platform.html
+	https://blogs.vmware.com/management/2019/04/improvements-to-action-based-extensibility-in-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/04/native-objects-from-azure-and-aws-in-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/04/introducing-git-with-abx.html
+	https://blogs.vmware.com/management/2019/04/introducing-pks-enterprise-integration-in-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/04/enhancements-to-cloud-assembly-blueprinting.html
+	https://blogs.vmware.com/management/2019/04/introducing-github-support-cloud-assembly.html
+	https://blogs.vmware.com/management/2019/04/service-broker-serverless-extensibility-abx-and-workflow-vro-as-content-sources.html
+	https://blogs.vmware.com/management/2019/04/onboard-workloads-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/05/journey-towards-multi-cloud-management.html
+	https://blogs.vmware.com/management/2019/05/network-automation-with-cloud-assembly-and-nsx-part-2.html
+	https://blogs.vmware.com/management/2019/05/integrations-available-for-vmware-code-stream.html
+	https://blogs.vmware.com/management/2019/06/use-cloud-assembly-blueprint-to-deploy-ansible-control-machine.html
+	https://blogs.vmware.com/management/2019/06/kubernetes-across-vmware-cloud-automation-services.html
+	https://blogs.vmware.com/management/2019/06/yes-we-use-it-ourselves-vmware-code-stream.html
+	https://blogs.vmware.com/management/2019/07/custom-host-naming.html
+	https://blogs.vmware.com/management/2019/07/cas-introducing-resource-tagging.html
+Pg 19-10
+	- https://blogs.vmware.com/management/2019/07/introducing-new-blueprint-sharing-and-publishing-capabilities.html
+	- https://blogs.vmware.com/management/2019/07/blueprint-testing-cloud-assembly.html
+	- https://blogs.vmware.com/management/2019/07/touring-cloud-assembly-july-2019-edition.html
+	- https://blogs.vmware.com/management/2019/07/new-webcast-deep-dive-into-vmware-cloud-automation-services.html
+	- https://blogs.vmware.com/management/2019/08/building-an-operational-tagging-strategy.html
+	- https://blogs.vmware.com/management/2019/08/action-based-extensibility-abx-now-available-on-premise.html
+	- https://blogs.vmware.com/management/2019/08/cloud-assembly-active-directory-integration.html
+	- https://blogs.vmware.com/management/2019/08/new-features-august-2019.html
+	- https://blogs.vmware.com/management/2019/08/cloud-assembly-infoblox-ipam-integration.html
+	- https://blogs.vmware.com/management/2019/08/network-automation-with-cloud-assembly-and-nsx-part-3.html
+	- https://blogs.vmware.com/management/2019/08/network-automation-with-cloud-assembly-and-nsx-part-4.html
+	- https://blogs.vmware.com/management/2019/08/whats-new-with-vmware-vrealize-automation-8-0.html
+	- https://blogs.vmware.com/management/2019/08/vrealize-automation-8-whats-new-overview.html
+	- https://blogs.vmware.com/management/2019/08/cloud-automation-samples-github.html
+	- https://blogs.vmware.com/management/2019/09/automate-like-a-service-provider-part1.html
+	- https://blogs.vmware.com/management/2019/09/xaas-vra-cloud.html
+	- https://blogs.vmware.com/management/2019/09/cloud-agnostic-apps-vra-cloud.html
+	- https://blogs.vmware.com/management/2019/09/cloud-assembly-support-for-ipv6.html
+	- https://blogs.vmware.com/management/2019/09/blueprint-object-properties-editor-in-vrealize-automation-cloud.html
+	- https://blogs.vmware.com/management/2019/09/kubernetes-namespace-management-in-cloud-assembly.html
+	- https://blogs.vmware.com/management/2019/09/service-broker-policy-criteria.html
+	- https://blogs.vmware.com/management/2019/09/cloud-automation-services-api-first.html
+	- https://blogs.vmware.com/management/2019/09/vmworld-europe-deep-dive-into-vmware-cloud-management.html
+	- https://blogs.vmware.com/management/2019/09/forrester-vmware-is-a-leader-in-infrastructure-automation-platforms-2019.html
+	- https://blogs.vmware.com/management/2019/09/the-journey-to-implementing-it-automation.html
+	- https://blogs.vmware.com/management/2019/10/vmware-idc-automation-software-4-years-in-a-row.html
+	- https://blogs.vmware.com/management/2019/10/vmware-idc-cloud-system-management-software-7-years-in-a-row.html
+	- https://blogs.vmware.com/management/2019/10/cloudformation-vra-cloud.html
+	- https://blogs.vmware.com/management/2019/10/vrealize-automation-new-install-and-configuration.html
+	- https://blogs.vmware.com/management/2019/10/announcing-general-availability-of-vmware-vrealize-automation-8-0.html
+	- https://blogs.vmware.com/management/2019/10/vmware-named-a-leader-in-the-forrester-wave-infrastructure-automation-platforms-q3-2019.html
+	- https://blogs.vmware.com/management/2019/10/deployment-sharing-in-vra-cloud.html
+	- https://blogs.vmware.com/management/2019/10/remote-console-available-in-vrealize-automation-cloud.html
+	- https://blogs.vmware.com/management/2019/10/cloud-assembly-load-balancer-with-nsx-t-deep-dive.html
+	- https://blogs.vmware.com/management/2019/11/cloudbase-init-windows-initialization.html
+	- https://blogs.vmware.com/management/2019/11/cloud-assembly-vm-management-ansible.html
+	- https://blogs.vmware.com/management/2019/11/ca-supports-os.html
+	- https://blogs.vmware.com/management/2019/12/extending-vra-custom-forms-with-vro.html
+	- https://blogs.vmware.com/management/2019/12/the-importance-of-a-cloud-strategy.html
+	- https://blogs.vmware.com/management/2020/01/getting-started-with-vra-terraform-provider.html
+	- https://blogs.vmware.com/management/2020/01/ova-content.html
+	- https://blogs.vmware.com/management/2020/01/evolving-towards-infrastructure-as-code.html
+	- https://blogs.vmware.com/management/2020/02/introducing-ansible-tower-integration-with-vrealize-automation.html
+	- https://blogs.vmware.com/management/2020/03/vrealize-automation-8-architecture.html
+	- https://blogs.vmware.com/management/2020/03/vra-resource-limits.html
+	- https://blogs.vmware.com/management/2020/04/update-nsx-networks-using-cloud-assembly.html
+	- https://blogs.vmware.com/management/2020/03/cspipeascatalog.html
+	- https://blogs.vmware.com/management/2020/05/vrealize-automation-posting-messages-from-codestream-to-ms-teams.html
+	- https://blogs.vmware.com/management/2020/05/devops-with-vmware-cloud-foundation.html
+	- https://blogs.vmware.com/management/2020/05/deploy-vrealize-suite-in-vmware-cloud-on-aws.html
+
+Pg 9-1
+	- 
